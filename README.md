@@ -21,6 +21,12 @@ Este proyecto no busca reemplazar procesos humanos de reclutamiento, sino revela
 
 - Población: Personas de 15 a 80 años
 
+### Descarga de datos
+
+Los microdatos utilizados en este proyecto provienen de la Encuesta Nacional de Ocupación y Empleo (ENOE), disponibles para su descarga pública en el sitio oficial del INEGI:
+
+https://www.inegi.org.mx/programas/enoe/15ymas/
+
 ### Variables consideradas en el modelo: 
 | Variable      | Descripción                                 |
 |---------------|---------------------------------------------|
