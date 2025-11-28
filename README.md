@@ -133,3 +133,21 @@ Más que resolver el problema del reclutamiento, este trabajo **abre una convers
 
 El código, modelo y aplicación son 100% reproducibles para fines educativos.
 
+
+---
+***
+___
+
+## 📦 Entregables del Proyecto
+
+A continuación se listan todos los materiales correspondientes al Proyecto Final de Ciencia de Datos:
+
+| Entregable | Link |
+|-----------|------|
+| 📄 Reporte Ejecutivo (PDF) | [Ver PDF](https://github.com/sambeliectioner-maker/sesgo-reclutamiento-ia/blob/main/reporte_ejecutivo.pdf) |
+| 🎬 Elevator Pitch / Video | [Ver video en YouTube](https://youtube.com/shorts/5QV7Rr5Omjw?feature=share) |
+| 📊 Presentación utilizada en clase | [Ver presentación en Canva](https://www.canva.com/design/DAG51Ewc0Ps/fpOjXjmewQxrR2yftWSLJQ/edit?utm_content=DAG51Ewc0Ps&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| 🧠 Aplicación en Streamlit | [Abrir app](https://sesgo-reclutamiento-ia-hwpzzwdxp2hdvqfpyqq5wy.streamlit.app/) |
+| 📓 Notebook de análisis | [Notebook principal](https://github.com/sambeliectioner-maker/sesgo-reclutamiento-ia/tree/main) |
+
+> Este repositorio concentra todos los recursos necesarios para reproducir, evaluar y comprender el proyecto, incluyendo el código, el modelo, los resultados, el reporte ejecutivo, la presentación y el video pitch.
