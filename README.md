@@ -144,7 +144,7 @@ A continuación se listan todos los materiales correspondientes al Proyecto Fina
 
 | Entregable | Link |
 |-----------|------|
-| 📄 Reporte Ejecutivo (PDF) | [Ver PDF](https://github.com/sambeliectioner-maker/sesgo-reclutamiento-ia/blob/main/reporte_ejecutivo.pdf) |
+| 📄 Reporte Ejecutivo (PDF) | [Ver PDF](https://github.com/sambeliectioner-maker/sesgo-reclutamiento-ia/blob/168aaa023e4cdcc36c8b2496b3f1821bc85f3281/Reporte%20Ejecutivo-Quien%20merece%20una%20oportunidad.pdf) |
 | 🎬 Elevator Pitch / Video | [Ver video en YouTube](https://youtube.com/shorts/5QV7Rr5Omjw?feature=share) |
 | 📊 Presentación utilizada en clase | [Ver presentación en Canva](https://www.canva.com/design/DAG51Ewc0Ps/fpOjXjmewQxrR2yftWSLJQ/edit?utm_content=DAG51Ewc0Ps&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 🧠 Aplicación en Streamlit | [Abrir app](https://sesgo-reclutamiento-ia-hwpzzwdxp2hdvqfpyqq5wy.streamlit.app/) |
